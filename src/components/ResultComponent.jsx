@@ -5,7 +5,8 @@ import React, { Component } from 'react'
         return (
             <div className='result-container'>
             <div className="icon">
-            <i class="far fa-check-circle"></i>
+            
+            
              </div>
              <div className='result-box'>
              <h1>You need more paractice ! </h1>
